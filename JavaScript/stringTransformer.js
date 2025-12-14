@@ -18,5 +18,4 @@ const learningSentence = "I love learning!";
 console.log("Original learning sentence:");
 console.log(learningSentence);
 
-const repeatedLove = "love ".repeat(3);
-console.log(repeatedLove);
+const repeatedLove = "love ".repeat(3).trimEnd()
