@@ -2,7 +2,7 @@ function calculateSum(num1, num2) {
   return num1 + num2;
 }
 
-// Sustract logic part
+// Subtract logic part
 function calculateDifference(num1, num2) {
   return num1 - num2;
 }
